@@ -1,0 +1,4 @@
+# Ignorar todas as subpastas dentro de BaixarVideos e ConverterParaMP3Classico
+BaixarVideos/*/
+ConverterParaMP3Classico/*/
+
